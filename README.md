@@ -1,4 +1,4 @@
-<h2 align="center">Personal Portfolio <br/> <a target="_blank" href="https://portfolio-devanshsahni.vercel.app/">devanshsahni</a></h2>
+<h2 align="center">Personal Portfolio <br/> <a target="_blank" href="https://amit-portfolio-rj07.vercel.app/"></a>Amit Raj</h2>
 
 <br/>
 ## About 
